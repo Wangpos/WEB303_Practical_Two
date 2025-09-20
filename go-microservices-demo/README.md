@@ -2,8 +2,6 @@
 
 ## Repository Information
 
-**GitHub Repository URL:** [Insert your repository URL here]
-
 ## Project Overview
 
 This project demonstrates a microservices architecture with service discovery using Consul and an API Gateway for request routing. The system consists of:
